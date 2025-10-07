@@ -1,3 +1,8 @@
+---
+layout: default
+title: 개인정보 처리방침
+---
+
 # 개인정보 처리방침
 
 **ssk-play** (https://ssk-play.github.io/)

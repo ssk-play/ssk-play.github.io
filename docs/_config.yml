@@ -1,0 +1,15 @@
+# Jekyll configuration for GitHub Pages
+title: ssk-play
+description: ssk-play website
+baseurl: ""
+url: "https://ssk-play.github.io"
+
+# Build settings
+markdown: kramdown
+theme: minima
+
+# Exclude files
+exclude:
+  - README.md
+  - .gitignore
+  - .idea

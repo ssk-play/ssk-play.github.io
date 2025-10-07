@@ -1,156 +1,156 @@
 ---
 layout: default
-title: 개인정보 처리방침 (전체)
+title: Privacy Policy (Full)
 ---
 
-# 개인정보 처리방침 (전체)
+# Privacy Policy (Full)
 
 **ssk-play** (https://ssk-play.github.io/)
 
-## 1. 개인정보의 처리 목적
+## 1. Purpose of Processing Personal Information
 
-**ssk-play**(이하 "회사")는 다음의 목적을 위하여 개인정보를 처리합니다. 처리한 개인정보는 다음의 목적 이외의 용도로는 사용되지 않으며, 이용 목적이 변경될 시에는 사전 동의를 구할 예정입니다.
+**ssk-play** (hereinafter referred to as "the Company") processes personal information for the following purposes. The processed personal information will not be used for purposes other than the following, and if the purpose of use changes, prior consent will be obtained.
 
-### 가. 회원 가입 및 관리
-- 회원 가입의사 확인, 회원제 서비스 제공에 따른 본인 식별·인증
-- 회원자격 유지·관리, 서비스 부정이용 방지
-- 각종 고지·통지, 고충처리
+### a. Membership Registration and Management
+- Verification of membership registration, identification and authentication for membership services
+- Maintenance and management of membership status, prevention of illegal use of services
+- Various notices and notifications, complaint handling
 
-### 나. 서비스 제공
-- 콘텐츠 제공, 맞춤형 서비스 제공
-- 본인인증, 요금결제·정산
+### b. Service Provision
+- Content provision, customized service provision
+- Identity verification, payment and settlement
 
-### 다. 서비스 개선
-- 신규 서비스 개발 및 맞춤 서비스 제공
-- 통계학적 특성에 따른 서비스 제공 및 광고 게재
-- 서비스의 유효성 확인, 접속빈도 파악
+### c. Service Improvement
+- Development of new services and provision of customized services
+- Service provision and advertisement placement according to statistical characteristics
+- Verification of service effectiveness, frequency of access analysis
 
-## 2. 개인정보의 처리 및 보유 기간
+## 2. Processing and Retention Period of Personal Information
 
-### 가. 회원 정보
-회사는 법령에 따른 개인정보 보유·이용기간 또는 정보주체로부터 개인정보를 수집 시에 동의받은 개인정보 보유·이용기간 내에서 개인정보를 처리·보유합니다.
+### a. Member Information
+The Company processes and retains personal information within the personal information retention and use period agreed upon when collecting personal information from data subjects or the retention and use period under relevant laws.
 
-- **보유 기간**: 회원 탈퇴 시까지
-- **예외**: 관계 법령 위반에 따른 수사·조사 등이 진행 중인 경우에는 해당 수사·조사 종료 시까지
+- **Retention Period**: Until membership withdrawal
+- **Exception**: Until the completion of investigation/inquiry in case of ongoing investigation/inquiry due to violation of relevant laws
 
-### 나. 관련 법령에 의한 정보보유
-전자상거래 등에서의 소비자보호에 관한 법률, 통신비밀보호법 등 관련 법령의 규정에 의하여 보존할 필요가 있는 경우 회사는 관련 법령에서 정한 일정한 기간 동안 회원정보를 보관합니다.
+### b. Information Retention Under Relevant Laws
+When necessary to preserve information according to provisions of relevant laws such as the Act on Consumer Protection in Electronic Commerce, the Protection of Communications Secrets Act, etc., the Company retains member information for a certain period prescribed by relevant laws.
 
-- 계약 또는 청약철회 등에 관한 기록: **5년**
-- 대금결제 및 재화 등의 공급에 관한 기록: **5년**
-- 소비자의 불만 또는 분쟁처리에 관한 기록: **3년**
-- 표시·광고에 관한 기록: **6개월**
-- 웹사이트 방문 기록: **3개월**
+- Records on contracts or withdrawal of subscription: **5 years**
+- Records on payment and supply of goods: **5 years**
+- Records on consumer complaints or dispute resolution: **3 years**
+- Records on labeling and advertising: **6 months**
+- Website visit records: **3 months**
 
-## 3. 처리하는 개인정보의 항목
+## 3. Items of Personal Information Processed
 
-### 가. 필수 수집 항목
-회사는 회원가입 및 서비스 제공을 위해 다음과 같은 개인정보를 수집합니다.
+### a. Required Collection Items
+The Company collects the following personal information for membership registration and service provision.
 
-- **이메일 주소**: 회원 식별, 본인 확인, 고지사항 전달
-- **비밀번호**: 본인 인증 (암호화하여 저장)
-- **닉네임**: 서비스 내 사용자 식별
+- **Email Address**: Member identification, identity verification, delivery of notices
+- **Password**: Identity authentication (stored in encrypted form)
+- **Nickname**: User identification within the service
 
-### 나. 선택 수집 항목
-- **프로필 이미지**: 사용자 프로필 표시
-- **기타 프로필 정보**: 서비스 이용에 필요한 추가 정보
+### b. Optional Collection Items
+- **Profile Image**: Display of user profile
+- **Other Profile Information**: Additional information necessary for service use
 
-### 다. 자동 수집 항목
-서비스 이용 과정에서 다음 정보가 자동으로 생성되어 수집될 수 있습니다.
-- IP 주소, 쿠키, 방문 일시, 서비스 이용 기록, 불량 이용 기록
-- 기기 정보 (OS 버전, 기기 모델명 등)
+### c. Automatically Collected Items
+The following information may be automatically generated and collected during service use.
+- IP address, cookies, visit date and time, service usage records, illegal usage records
+- Device information (OS version, device model name, etc.)
 
-## 4. 개인정보의 제3자 제공
+## 4. Provision of Personal Information to Third Parties
 
-회사는 원칙적으로 이용자의 개인정보를 제3자에게 제공하지 않습니다. 다만, 다음의 경우에는 예외로 합니다.
+The Company does not provide users' personal information to third parties in principle. However, exceptions are made in the following cases:
 
-- 이용자가 사전에 동의한 경우
-- 법령의 규정에 의거하거나, 수사 목적으로 법령에 정해진 절차와 방법에 따라 수사기관의 요구가 있는 경우
+- When users have given prior consent
+- When there is a request from investigative agencies in accordance with procedures and methods prescribed by law for investigation purposes or in accordance with legal provisions
 
-## 5. 개인정보 처리의 위탁
+## 5. Consignment of Personal Information Processing
 
-회사는 서비스 향상을 위해서 아래와 같이 개인정보를 위탁하고 있으며, 관계 법령에 따라 위탁계약 시 개인정보가 안전하게 관리될 수 있도록 필요한 사항을 규정하고 있습니다.
+The Company consigns personal information as follows for service improvement and stipulates necessary matters to ensure safe management of personal information during consignment contracts in accordance with relevant laws.
 
-현재 개인정보 처리 위탁 업체는 없습니다. 위탁이 필요한 경우 사전에 공지하겠습니다.
+Currently, there are no consignees for personal information processing. We will notify you in advance if consignment becomes necessary.
 
-## 6. 정보주체의 권리·의무 및 행사방법
+## 6. Rights, Obligations, and Exercise Methods of Data Subjects
 
-이용자는 개인정보 주체로서 다음과 같은 권리를 행사할 수 있습니다.
+Users can exercise the following rights as personal information subjects.
 
-### 가. 권리
-- 개인정보 열람 요구
-- 오류 등이 있을 경우 정정 요구
-- 삭제 요구
-- 처리정지 요구
+### a. Rights
+- Request to view personal information
+- Request for correction if there are errors
+- Request for deletion
+- Request for suspension of processing
 
-### 나. 행사 방법
-권리 행사는 회사에 대해 서면, 전화, 전자우편 등을 통하여 하실 수 있으며, 회사는 이에 대해 지체 없이 조치하겠습니다.
+### b. Exercise Methods
+Rights can be exercised through written requests, telephone, email, etc. to the Company, and the Company will take action without delay.
 
-권리 행사는 이용자의 법정대리인이나 위임을 받은 자 등 대리인을 통하여 하실 수도 있습니다. 이 경우 위임장을 제출하셔야 합니다.
+Rights can also be exercised through legal representatives or authorized agents. In this case, a power of attorney must be submitted.
 
-## 7. 개인정보의 파기
+## 7. Destruction of Personal Information
 
-### 가. 파기 절차
-이용자가 입력한 정보는 목적 달성 후 별도의 DB에 옮겨져 내부 방침 및 기타 관련 법령에 따라 일정기간 저장된 후 혹은 즉시 파기됩니다.
+### a. Destruction Procedure
+Information entered by users is transferred to a separate database after the purpose is achieved and stored for a certain period according to internal policies and other relevant laws, or destroyed immediately.
 
-### 나. 파기 기한
-이용자의 개인정보는 개인정보의 보유기간이 경과된 경우에는 보유기간의 종료일로부터 **5일 이내**에, 개인정보의 처리 목적 달성, 해당 서비스의 폐지, 사업의 종료 등 그 개인정보가 불필요하게 되었을 때에는 개인정보의 처리가 불필요한 것으로 인정되는 날로부터 **5일 이내**에 그 개인정보를 파기합니다.
+### b. Destruction Period
+Users' personal information is destroyed **within 5 days** from the end date of the retention period if the retention period has expired, or **within 5 days** from the date when the processing of personal information is recognized as unnecessary when the purpose of processing personal information is achieved, the service is discontinued, or the business is terminated.
 
-### 다. 파기 방법
-- 전자적 파일 형태: 복구 및 재생되지 않도록 안전하게 삭제
-- 기록물, 인쇄물, 서면 등: 분쇄하거나 소각
+### c. Destruction Method
+- Electronic file format: Securely deleted so that it cannot be recovered or regenerated
+- Records, printed materials, documents, etc.: Shredded or incinerated
 
-## 8. 개인정보 자동 수집 장치의 설치·운영 및 거부
+## 8. Installation, Operation, and Rejection of Automatic Personal Information Collection Devices
 
-### 가. 쿠키의 사용 목적
-회사는 이용자에게 개별적인 맞춤 서비스를 제공하기 위해 이용 정보를 저장하고 수시로 불러오는 '쿠키(cookie)'를 사용합니다.
+### a. Purpose of Using Cookies
+The Company uses 'cookies' that store usage information and retrieve it from time to time to provide individual customized services to users.
 
-쿠키는 웹사이트를 운영하는데 이용되는 서버가 이용자의 브라우저에 보내는 작은 텍스트 파일로, 이용자의 컴퓨터 하드디스크에 저장됩니다.
+Cookies are small text files sent by the server used to operate the website to the user's browser and are stored on the user's computer hard disk.
 
-### 나. 쿠키의 설치·운영 및 거부
-- 웹브라우저 상단의 도구 > 인터넷 옵션 > 개인정보 메뉴에서 쿠키 설정을 변경할 수 있습니다.
-- 쿠키 저장을 거부할 경우 맞춤형 서비스 이용에 어려움이 발생할 수 있습니다.
+### b. Installation, Operation, and Rejection of Cookies
+- You can change cookie settings in Tools > Internet Options > Privacy menu at the top of your web browser.
+- If you refuse to store cookies, you may experience difficulties in using customized services.
 
-## 9. 개인정보의 안전성 확보 조치
+## 9. Measures to Ensure Safety of Personal Information
 
-회사는 개인정보보호법 제29조에 따라 다음과 같이 안전성 확보에 필요한 기술적/관리적 및 물리적 조치를 하고 있습니다.
+The Company takes the following technical/administrative and physical measures necessary to ensure safety in accordance with Article 29 of the Personal Information Protection Act.
 
-### 가. 관리적 조치
-- 내부관리계획 수립·시행
-- 개인정보 취급 직원의 최소화 및 교육
+### a. Administrative Measures
+- Establishment and implementation of internal management plans
+- Minimization of employees handling personal information and training
 
-### 나. 기술적 조치
-- 개인정보의 암호화: 비밀번호는 암호화되어 저장 및 관리
-- 해킹 등에 대비한 기술적 대책
-- 접속기록의 보관 및 위변조 방지
+### b. Technical Measures
+- Encryption of personal information: Passwords are stored and managed in encrypted form
+- Technical measures against hacking
+- Storage and prevention of forgery/alteration of access records
 
-### 다. 물리적 조치
-- 개인정보가 포함된 서류, 보조저장매체 등을 잠금장치가 있는 안전한 장소에 보관
-- 전산실, 자료보관실 등의 접근통제
+### c. Physical Measures
+- Storage of documents and auxiliary storage media containing personal information in safe places with locking devices
+- Access control to computer rooms, data storage rooms, etc.
 
-## 10. 개인정보 보호책임자
+## 10. Personal Information Protection Officer
 
-회사는 개인정보 처리에 관한 업무를 총괄해서 책임지고, 개인정보 처리와 관련한 정보주체의 불만처리 및 피해구제 등을 위하여 아래와 같이 개인정보 보호책임자를 지정하고 있습니다.
+The Company has designated a Personal Information Protection Officer as follows to take overall responsibility for matters related to personal information processing and to handle complaints and remedy damage related to personal information processing by data subjects.
 
-### ▶ 개인정보 보호책임자
-- **개발자**: ssk-play
-- **이메일**: developer.kss@gmail.com
-- **웹사이트**: https://ssk-play.github.io/
+### ▶ Personal Information Protection Officer
+- **Developer**: ssk-play
+- **Email**: developer.kss@gmail.com
+- **Website**: https://ssk-play.github.io/
 
-정보주체께서는 회사의 서비스를 이용하시면서 발생한 모든 개인정보 보호 관련 문의, 불만처리, 피해구제 등에 관한 사항을 개인정보 보호책임자로 문의하실 수 있습니다. 회사는 정보주체의 문의에 대해 지체 없이 답변 및 처리해드릴 것입니다.
+Data subjects can contact the Personal Information Protection Officer for all inquiries, complaint handling, damage remedy, etc. related to personal information protection that occur while using the Company's services. The Company will respond to and handle inquiries from data subjects without delay.
 
-### ▶ 개인정보 침해 관련 상담 및 신고
-개인정보 침해에 대한 신고나 상담이 필요하신 경우에는 아래 기관에 문의하시기 바랍니다.
+### ▶ Consultation and Reporting on Personal Information Infringement
+If you need to report or consult about personal information infringement, please contact the following organizations.
 
-- 개인정보 침해신고센터 (한국인터넷진흥원 운영): (국번없이) 118 / privacy.kisa.or.kr
-- 개인정보 분쟁조정위원회: (국번없이) 1833-6972 / www.kopico.go.kr
-- 대검찰청 사이버범죄수사단: (국번없이) 1301 / www.spo.go.kr
-- 경찰청 사이버안전국: (국번없이) 182 / cyberbureau.police.go.kr
+- Personal Information Infringement Report Center (operated by Korea Internet & Security Agency): (without area code) 118 / privacy.kisa.or.kr
+- Personal Information Dispute Mediation Committee: (without area code) 1833-6972 / www.kopico.go.kr
+- Supreme Prosecutors' Office Cyber Investigation Division: (without area code) 1301 / www.spo.go.kr
+- National Police Agency Cyber Safety Bureau: (without area code) 182 / cyberbureau.police.go.kr
 
-## 11. 개인정보 처리방침 변경
+## 11. Changes to the Privacy Policy
 
-이 개인정보 처리방침은 법령, 정책 또는 보안기술의 변경에 따라 내용이 수정될 수 있으며, 내용 추가·삭제 및 수정이 있을 시에는 변경사항 시행일의 **7일 전**부터 앱 내 공지사항을 통해 고지할 것입니다.
+This privacy policy may be modified in accordance with changes in laws, policies, or security technologies, and if there are additions, deletions, and corrections to the content, it will be announced through app notifications from **7 days before** the effective date of the changes.
 
 ---
 
-**시행일자**: 2025년 10월 7일
+**Effective Date**: October 7, 2025

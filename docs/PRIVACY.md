@@ -1,56 +1,56 @@
 ---
 layout: default
-title: 개인정보 처리방침
+title: Privacy Policy
 ---
 
-# 개인정보 처리방침
+# Privacy Policy
 
 **ssk-play** (https://ssk-play.github.io/)
 
-## 1. 개인정보의 처리 목적
+## 1. Purpose of Processing Personal Information
 
-본 웹사이트는 개인정보를 수집하지 않습니다. 회원가입, 로그인 등의 기능이 없으며, 사용자로부터 어떠한 개인정보도 요구하거나 저장하지 않습니다.
+This website does not collect personal information. There are no features such as membership registration or login, and we do not request or store any personal information from users.
 
-## 2. 개인정보의 처리 및 보유 기간
+## 2. Processing and Retention Period of Personal Information
 
-본 웹사이트는 개인정보를 수집하지 않으므로 보유하지 않습니다.
+This website does not retain any personal information as we do not collect it.
 
-## 3. 개인정보의 제3자 제공
+## 3. Provision of Personal Information to Third Parties
 
-본 웹사이트는 개인정보를 제3자에게 제공하지 않습니다.
+This website does not provide personal information to third parties.
 
-## 4. 개인정보 처리의 위탁
+## 4. Consignment of Personal Information Processing
 
-본 웹사이트는 개인정보 처리를 위탁하지 않습니다.
+This website does not consign the processing of personal information.
 
-## 5. 정보주체의 권리·의무 및 행사방법
+## 5. Rights and Obligations of Data Subjects and How to Exercise Them
 
-본 웹사이트는 개인정보를 수집하지 않으므로 별도의 권리 행사 절차가 필요하지 않습니다.
+As this website does not collect personal information, no separate procedures for exercising rights are required.
 
-## 6. 처리하는 개인정보의 항목
+## 6. Items of Personal Information Processed
 
-본 웹사이트는 개인정보를 수집하지 않습니다.
+This website does not collect personal information.
 
-## 7. 개인정보의 파기
+## 7. Destruction of Personal Information
 
-본 웹사이트는 개인정보를 수집하지 않으므로 파기할 정보가 없습니다.
+This website does not have any information to destroy as we do not collect personal information.
 
-## 8. 개인정보 자동 수집 장치의 설치·운영 및 거부
+## 8. Installation, Operation, and Rejection of Automatic Personal Information Collection Devices
 
-본 웹사이트는 쿠키(Cookie) 등 개인정보를 자동으로 수집하는 장치를 사용하지 않습니다.
+This website does not use automatic personal information collection devices such as cookies.
 
-## 9. 개인정보 보호책임자
+## 9. Personal Information Protection Officer
 
-개인정보 보호와 관련된 문의사항이 있으시면 아래 연락처로 문의해 주시기 바랍니다.
+If you have any inquiries regarding personal information protection, please contact us at the following:
 
-- **개발자**: ssk-play
-- **이메일**: developer.kss@gmail.com
-- **웹사이트**: https://ssk-play.github.io/
+- **Developer**: ssk-play
+- **Email**: developer.kss@gmail.com
+- **Website**: https://ssk-play.github.io/
 
-## 10. 개인정보 처리방침 변경
+## 10. Changes to the Privacy Policy
 
-본 개인정보 처리방침은 법령, 정책 또는 보안기술의 변경에 따라 내용이 수정될 수 있습니다. 개인정보 처리방침이 변경되는 경우 웹사이트를 통해 공지하겠습니다.
+This privacy policy may be modified in accordance with changes in laws, policies, or security technologies. If the privacy policy is changed, we will notify you through the website.
 
 ---
 
-**시행일자**: 2025년 10월 7일
+**Effective Date**: October 7, 2025
